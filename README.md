@@ -1,13 +1,13 @@
-# Resturant-order-form-project
-a small javascript powered restaurant order form that i created as a first commercial project
+# Restaurant-order-form-project
+A small javascript powered restaurant order form that i created as a first commercial project
 
-The breif
-the customer needed a form to sell a sesonal menu to their data base.
+The brief
+the customer needed a form to sell a seasonal menu to their database.
 
-I created a maailchimp account + marketing campaign and the form and backend to make the form and emailing needs work.
+I created a mailchimp account + marketing campaign and the form and backend to make the form and emailing needs work.
 This was a quick project with super short deadline.
 
-No css responsivness was added
+No css responsiveness was added
 
 
 
@@ -16,7 +16,7 @@ JAVASCRIPT / PHP
 
 High Level View
 # Front end
-1. load and parse json file from filesytem
+1. load and parse json file from filesystem
 2. render the data into the dom as a form
 3. validate form field data
 4. submit data to php 
@@ -32,5 +32,6 @@ High Level View
 
 # Road Map
 build this out into a framework powered client area and more elegantly coded front end 
+
 
 
