@@ -15,11 +15,11 @@ No css responsiveness was added
 JAVASCRIPT / PHP
 
 High Level View
+
 # Front end
-1. load and parse json file from filesystem
-2. render the data into the dom as a form
-3. validate form field data
-4. submit data to php 
+1. render the data into the dom as a form
+2. validate form field data
+3. submit data to php backend
 
 # Back end
 1. create order number
@@ -31,7 +31,9 @@ High Level View
 7. redirect user.
 
 # Road Map
-build this out into a framework powered client area and more elegantly coded front end 
+load form data from JSON
+add a client area for working with data
+build this out using a framework 
 
 
 
